@@ -8,6 +8,11 @@ namespace kaffe
 {
 	class FlatWhite : Kaffe, Imælk
 	{
+		public FlatWhite()
+		{
+
+		}
+
 		public int MlMælk()
 		{
 			return 160;
