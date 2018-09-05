@@ -10,7 +10,7 @@ namespace kaffe
 	{
 		public int MlMælk()
 		{
-			throw new NotImplementedException();
+			return 160;
 		}
 
 		public override int Pris()
